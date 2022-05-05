@@ -1,4 +1,4 @@
-Classe Banco: Assinatura
+
 
 class Banco:
     def __init__(self): (...)
